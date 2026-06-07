@@ -314,21 +314,7 @@ Structured output validation results
 ----------------------------------------------------------------------------
 Week2  Project:
 
-Project Brief
-
-## Topics
-# Project Insurance and policy advisor co pilot
-# Insurance
-# Insurance suggestion, risk analysis
-
-**Build a Banking/Insurance FAQ Chatbot that demonstrates all Week 1-2 skills:**
-
-## prompt engineering- done, 
-## few-shot learning- done,  
-## chain-of-thought reasoning- done,  
-## structured JSON outputs- done
-## guardrails done
-## and a  simple UI- done.
+## prompt engineering, few-shot learning, chain-of-thought reasoning, structured JSON outputs, guardrails and a  simple UI
 
 # Requirements
 Accept natural language banking questions (account types, loan eligibility, interest rates, KYC process)
